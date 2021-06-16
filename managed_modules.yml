@@ -37,6 +37,7 @@
 - puppet-fetchcrl
 - puppet-filemapper
 - puppet-firewalld
+- puppet-format
 - puppet-gerrit
 - puppet-ghost
 - puppet-gitlab
